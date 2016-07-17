@@ -2,11 +2,12 @@
 ###TASK MANAGEMENT SYSTEM
 
 Technologies which will be used for this project are:
--Microsoft ASP.NET MVC Framework
--Microsoft SQL Server Database
--HTML/CSS
--JavaScript/jQuery/Ajax
--Implementation of Repository pattern
+* Microsoft ASP.NET MVC Framework
+* Microsoft SQL Server Database
+* HTML/CSS
+* Bootstrap 3
+* JavaScript/jQuery/Ajax
+* Implementation of Repository pattern
 
 
 #Project Features
