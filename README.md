@@ -26,24 +26,25 @@ Technologies which will be used for this project are:
     * In Testing (QA)
     * Done	
 6. I can change task status - Rules: 
-    -Task from To Do can go to In Progress or In Testing (QA) but not to Done
-    -Task from In Progress can go to To Do, In Testing (QA) or Done
-    -Task from In Testing (QA) can go in To Do or Done, but not to In Progress
-    -Task from Done can’t go back to any other status
+    * Task from To Do can go to In Progress or In Testing (QA) but not to Done
+    * Task from In Progress can go to To Do, In Testing (QA) or Done
+    * Task from In Testing (QA) can go in To Do or Done, but not to In Progress
+    * Task from Done can’t go back to any other status
 7. Add/Update/Delete Task
 8. Add/Update/Delete Project
 9. There should be two roles in the system: Administrator and User
-  -Administrator can add new users in the system
-  -Administrator can add new projects in the system
-  -Administrator can add new customers in the system
-  -Administrator can activate newly registered users
-  -User and Administrator can add new tasks on project
+  * Administrator can add new users in the system
+  * Administrator can add new projects in the system
+  * Administrator can add new customers in the system
+  * Administrator can activate newly registered users
+  * User and Administrator can add new tasks on project
 10. Show basic report of total number of tasks per user where you should list all users and total number of tasks assigned to that user.
 
 
-#BONUS FEATURES
+#Bonus Features
 1. If more than 20 projects, please provide pagination feature.
 2. If implemented draggable and droppable way of updating status of tasks. Example: If task is in To Do column, with drag-and-drop with mouse I can move it to In Progress column.
 3. Add/Update/Delete Task implemented using jQuery Ajax
 4. Add/Update/Delete Project implemented using jQuery Ajax
 5. Reports which will be shown to be printable
+6. Put it hole project on Azure with DB
