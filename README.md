@@ -12,19 +12,19 @@ Technologies which will be used for this project are:
 #Project Features
 
 1. User Authentication
-  -User can log in on the system with username and password
+  * User can log in on the system with username and password
 2. User Registration
-  -User can register on the system. But should be then activated by Administrator
+  * User can register on the system. But should be then activated by Administrator
 3. User Reset Password
-  -User can reset password by providing username. Password reset link should be sent over email.
+	*User can reset password by providing username. Password reset link should be sent over email.
 4. Dashboard with Listing Projects
-  -On dashboard, you should list all the projects.
+  * On dashboard, you should list all the projects.
 5. Listing tasks for selected project
 	Tasks should be grouped in 4 vertical columns:
-    -To Do
-    -In Progress
-    -In Testing (QA)
-    -Done	
+    * To Do
+    * In Progress
+    * In Testing (QA)
+    * Done	
 6. I can change task status - Rules: 
     -Task from To Do can go to In Progress or In Testing (QA) but not to Done
     -Task from In Progress can go to To Do, In Testing (QA) or Done
