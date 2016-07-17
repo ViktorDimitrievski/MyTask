@@ -8,5 +8,11 @@ namespace Entities
 {
     public class Project : Base
     {
+        public string Description { get; set; }
+
+        public virtual Customer Customer { get; set; }
+        public virtual int CustomerID { get; set; }
+
+        public virtual List<Task> Tasks { get; set; }
     }
 }
