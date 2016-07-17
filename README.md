@@ -1,2 +1,2 @@
-# MyTask
-Homework project for creating task management system
+# MyTask - HOMEWORK PROJECT
+TASK MANAGEMENT SYSTEM
