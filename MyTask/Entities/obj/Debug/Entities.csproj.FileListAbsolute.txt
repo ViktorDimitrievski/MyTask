@@ -1,0 +1,5 @@
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Entities\bin\Debug\Entities.dll
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Entities\bin\Debug\Entities.pdb
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Entities\obj\Debug\Entities.dll
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Entities\obj\Debug\Entities.pdb
