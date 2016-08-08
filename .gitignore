@@ -1,0 +1,11 @@
+#################
+## Directories
+#################
+node_modules/
+
+*.cmd
+$.bin
+
+
+# Folder config file
+Desktop.ini
