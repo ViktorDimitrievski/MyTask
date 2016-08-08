@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WepApp", "WepApp\WepApp.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{0C74167A-4618-4550-993C-18CEEC22F96A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{1F6029B5-F0C8-4D50-91EC-6B892EDD7406}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0C74167A-4618-4550-993C-18CEEC22F96A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C74167A-4618-4550-993C-18CEEC22F96A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C74167A-4618-4550-993C-18CEEC22F96A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F6029B5-F0C8-4D50-91EC-6B892EDD7406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F6029B5-F0C8-4D50-91EC-6B892EDD7406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F6029B5-F0C8-4D50-91EC-6B892EDD7406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F6029B5-F0C8-4D50-91EC-6B892EDD7406}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
