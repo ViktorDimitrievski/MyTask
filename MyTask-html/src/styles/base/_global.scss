@@ -5,3 +5,19 @@
   font-weight: normal;
   font-style: normal;
 }
+
+
+body{
+    background-color: #fff;
+}
+
+.circle{
+    display: flex;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    align-items: center;
+}

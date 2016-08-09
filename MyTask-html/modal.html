@@ -1,0 +1,107 @@
+﻿<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" type="text/css" href="dist/css/bundle-libraries.css">
+    <link rel="stylesheet" type="text/css" href="dist/css/bundle.css">
+</head>
+
+<body>
+
+    <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
+        Launch demo modal
+    </button>
+
+    <div class="modal fade modal-default" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">#Fix 954 - image galery</h4>
+                </div>
+                <div class="modal-body">
+
+                    <!--Description-->
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group label-floating">
+                                <label class="control-label" for="textarea1">Description</label>
+                                <textarea class="form-control" id="textarea1"></textarea>
+                                <p class="help-block">Write short description for task!</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!--Estimated hours-->
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group label-floating">
+                                <label class="control-label" for="estimatedhours">Estimated hours</label>
+                                <input class="form-control" id="estimatedhours"></input>
+                                <p class="help-block">Your estimation for work on task?</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Start - End Date-->
+                    <div class="row">
+                        <div class="col-xs-6">
+                            <div class="form-group label-floating">
+                                <label class="control-label" for="datetimepicker1" >Start Date</label>
+                                <input type='datetime' class="form-control" id='datetimepicker1' />
+                            </div>
+                        </div>
+                        <div class="col-xs-6">
+                            <div class="form-group label-floating">
+                                <label class="control-label" for="datetimepicker2">End Date</label>
+                                <input type='datetime' class="form-control" id='datetimepicker2'/>
+                            </div>
+                        </div>
+                    </div>
+                    <!--task status-->
+                    <div class="row">
+                        <div class="col-xs-2">
+                            <label class="control-label">Task Status</label>
+                        </div>
+                        <div class="col-xs-10">
+                            <div class="btn-toolbar">
+                                <div class="btn-group">
+                                    <button class="btn btn-sm">To Do</button>
+                                    <button class="btn btn-sm">In Progress</button>
+                                    <button class="btn btn-sm">In Testing</button>
+                                    <button class="btn btn-sm">Done</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--task type-->
+                    <div class="row">
+                        <div class="col-xs-2">
+                            <label class="control-label">Task Type</label>
+                        </div>
+                        <div class="col-xs-10">
+                            <div class="btn-toolbar">
+                                <div class="btn-group">
+                                    <button class="btn btn-sm">Bug</button>
+                                    <button class="btn btn-sm">Fix</button>
+                                    <button class="btn btn-sm">Test</button>
+                                    <button class="btn btn-sm">New Features</button>
+                                    <button class="btn btn-sm">Support</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-raised btn-success">Save</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="dist/js/bundle.libraries.js"></script>
+    <script src="dist/js/bundle.js"></script>
+</body>
+</html>

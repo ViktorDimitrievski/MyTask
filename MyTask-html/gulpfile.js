@@ -47,7 +47,9 @@ gulp.task("scripts-libraries", function () {
             "./node_modules/jquery/dist/jquery.min.js",
             "./node_modules/bootstrap/dist/js/bootstrap.min.js",
 			"./node_modules/bootstrap-material-design/dist/js/material.min.js",
-			"./node_modules/bootstrap-material-design/dist/js/ripples.min.js"
+			"./node_modules/bootstrap-material-design/dist/js/ripples.min.js",
+            "./node_modules/moment/min/moment.min.js",
+            "./src/libs/bootstrap-datetimepicker/js/bootstrap-datetimepicker.js"
     ])
         .pipe(plumber())
         .pipe(concat("bundle.libraries.js"))
@@ -61,7 +63,8 @@ gulp.task("styles-libraries", function () {
          "./node_modules/bootstrap/dist/css/bootstrap.min.css",
          "./node_modules/bootstrap-material-design/dist/css/bootstrap-material-design.min.css",
          "./node_modules/bootstrap-material-design/dist/css/ripples.min.css",
-         "./node_modules/font-awesome/css/font-awesome.min.css"
+         "./node_modules/font-awesome/css/font-awesome.min.css",
+         "./src/libs/bootstrap-datetimepicker/css/bootstrap-datetimepicker.css"
     ])
          .pipe(plumber())
          .pipe(concatCss("bundle-libraries.css"))

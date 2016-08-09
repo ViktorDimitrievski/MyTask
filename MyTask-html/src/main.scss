@@ -1,4 +1,5 @@
-@import "base/_config";
-@import "base/_global";
+@import "./styles/base/_config";
+@import "./styles/base/_global";
 
-@import "modules/_nav";
+@import "./styles/modules/_nav";
+@import "./styles/modules/_modal";
