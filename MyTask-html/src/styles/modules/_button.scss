@@ -1,0 +1,20 @@
+.btn {
+    outline-color: transparent;
+
+    &:hover,
+    &:active,
+    &:focus {
+        outline-color: transparent !important;
+    }
+}
+
+.btn-danger {
+    color: $color-red !important;
+
+    &:hover,
+    &:active,
+    &:focus {
+        background-color: $color-hover !important;
+        outline-color: transparent !important;
+    }
+}
