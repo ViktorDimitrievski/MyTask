@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using WepApp.Models;
 
 namespace Entities
 {
@@ -28,7 +27,7 @@ namespace Entities
         Bug = 0,
         Test = 1,
         NewFeature = 2,
-        Suport = 3
+        Support = 3
     }
     public enum TaskStatus
     {

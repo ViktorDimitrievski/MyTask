@@ -1,0 +1,20 @@
+.panel-user {
+    margin-top: 30%;
+
+    .panel-heading {
+        text-transform: uppercase;
+        padding: 15px 0 15px 15px;
+        font-weight: bold;
+        font-size: 18px;
+        color: $color-gray;
+    }
+
+    .controls {
+        text-align: center;
+    }
+
+    .panel-footer {
+        text-align: center;
+        text-transform: lowercase;
+    }
+}

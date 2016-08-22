@@ -1,3 +1,78 @@
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\obj\Debug\WepApp.csprojResolveAssemblyReference.cache
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\obj\Debug\WepApp.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\obj\Debug\WepApp.pdb
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\roslyn\csc.exe
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\roslyn\vbc.exe
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\roslyn\VBCSCompiler.exe
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\WepApp.dll.config
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\WepApp.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\WepApp.pdb
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Antlr3.Runtime.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Entities.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\EntityFramework.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\EntityFramework.SqlServer.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Interfaces.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Microsoft.Owin.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Microsoft.Owin.Security.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Microsoft.Owin.Security.Google.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Newtonsoft.Json.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Owin.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Repositories.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\System.Web.Helpers.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\System.Web.Mvc.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\System.Web.Optimization.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\System.Web.Razor.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\System.Web.WebPages.Deployment.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\System.Web.WebPages.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\System.Web.WebPages.Razor.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\WebGrease.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Entities.pdb
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Interfaces.pdb
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Repositories.pdb
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\System.Web.Helpers.xml
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\System.Web.Mvc.xml
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\System.Web.Optimization.xml
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\System.Web.Razor.xml
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\System.Web.WebPages.xml
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\System.Web.WebPages.Deployment.xml
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\System.Web.WebPages.Razor.xml
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Antlr3.Runtime.pdb
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Newtonsoft.Json.xml
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\EntityFramework.xml
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\EntityFramework.SqlServer.xml
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Microsoft.Owin.xml
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Microsoft.Owin.Security.xml
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Microsoft.Owin.Security.Google.xml
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\WepApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\WepApp\bin\roslyn\csc.exe
 C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\WepApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\WepApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -14,8 +89,10 @@ C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\WepApp\bin\WepApp.dll.config
 C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\WepApp\bin\WepApp.dll
 C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\WepApp\bin\WepApp.pdb
 C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\WepApp\bin\Antlr3.Runtime.dll
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\WepApp\bin\Entities.dll
 C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\WepApp\bin\EntityFramework.dll
 C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\WepApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\WepApp\bin\Interfaces.dll
 C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\WepApp\bin\Microsoft.AspNet.Identity.Core.dll
 C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\WepApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
 C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\WepApp\bin\Microsoft.AspNet.Identity.Owin.dll
@@ -32,6 +109,7 @@ C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\WepApp\bin\Microsoft.Owin.Securit
 C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\WepApp\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\WepApp\bin\Newtonsoft.Json.dll
 C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\WepApp\bin\Owin.dll
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\WepApp\bin\Repositories.dll
 C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\WepApp\bin\System.Web.Helpers.dll
 C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\WepApp\bin\System.Web.Mvc.dll
 C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\WepApp\bin\System.Web.Optimization.dll
@@ -40,6 +118,9 @@ C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\WepApp\bin\System.Web.WebPages.De
 C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\WepApp\bin\System.Web.WebPages.dll
 C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\WepApp\bin\System.Web.WebPages.Razor.dll
 C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\WepApp\bin\WebGrease.dll
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\WepApp\bin\Entities.pdb
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\WepApp\bin\Interfaces.pdb
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\WepApp\bin\Repositories.pdb
 C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\WepApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\WepApp\bin\System.Web.Helpers.xml
 C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\WepApp\bin\System.Web.Mvc.xml

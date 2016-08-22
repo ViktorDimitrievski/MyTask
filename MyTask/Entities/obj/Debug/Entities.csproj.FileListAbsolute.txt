@@ -1,5 +1,28 @@
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Entities\bin\Debug\Entities.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Entities\bin\Debug\Entities.pdb
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Entities\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Entities\bin\Debug\EntityFramework.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Entities\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Entities\bin\Debug\EntityFramework.xml
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Entities\obj\Debug\Entities.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Entities\obj\Debug\Entities.pdb
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Entities\bin\Debug\Entities.dll.config
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Entities\bin\Debug\Entities.dll.config
 C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Entities\bin\Debug\Entities.dll
 C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Entities\bin\Debug\Entities.pdb
-C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Entities\bin\Debug\EntityFramework.dll
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Entities\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Entities\bin\Debug\EntityFramework.xml
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Entities\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Entities\obj\Debug\Entities.dll
 C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Entities\obj\Debug\Entities.pdb
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache

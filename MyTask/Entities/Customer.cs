@@ -10,6 +10,6 @@ namespace Entities
     {
         public string Email { get; set; }
         public string Company { get; set; }
-        public virtual ICollection<Project> Projects { get; set; }
+        public virtual IEnumerable<Project> Projects { get; set; }
     }
 }

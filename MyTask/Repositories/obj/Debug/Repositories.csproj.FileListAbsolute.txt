@@ -1,0 +1,36 @@
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Repositories\obj\Debug\Repositories.csprojResolveAssemblyReference.cache
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Repositories\bin\Debug\Repositories.dll.config
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Repositories\bin\Debug\Repositories.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Repositories\bin\Debug\Repositories.pdb
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Repositories\bin\Debug\Entities.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Repositories\bin\Debug\EntityFramework.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Repositories\bin\Debug\EntityFramework.SqlServer.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Repositories\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Repositories\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Repositories\bin\Debug\Entities.pdb
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Repositories\bin\Debug\EntityFramework.xml
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Repositories\bin\Debug\EntityFramework.SqlServer.xml
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Repositories\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Repositories\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Repositories\obj\Debug\Repositories.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Repositories\obj\Debug\Repositories.pdb
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Repositories\bin\Debug\Interfaces.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Repositories\bin\Debug\Interfaces.pdb
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Repositories\bin\Debug\Repositories.dll.config
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Repositories\bin\Debug\Repositories.dll
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Repositories\bin\Debug\Repositories.pdb
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Repositories\bin\Debug\Entities.dll
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Repositories\bin\Debug\EntityFramework.dll
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Repositories\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Repositories\bin\Debug\Interfaces.dll
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Repositories\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Repositories\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Repositories\bin\Debug\Entities.pdb
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Repositories\bin\Debug\Interfaces.pdb
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Repositories\bin\Debug\EntityFramework.xml
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Repositories\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Repositories\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Repositories\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Repositories\obj\Debug\Repositories.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Repositories\obj\Debug\Repositories.dll
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Repositories\obj\Debug\Repositories.pdb

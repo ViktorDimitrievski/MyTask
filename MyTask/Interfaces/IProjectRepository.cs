@@ -8,13 +8,10 @@ namespace Interfaces
 {
     public interface IProjectRepository
     {
+        bool Create(Project project);
+        bool Edit(Project project);
+        bool Delete(int projectID);
         List<Project> GetAll();
         Project GetByID(int projectID);
-        Project Create(Project project);
-        Project Edit(Project project);
-        bool Delete(int projectID);
-
-        int GetProjectTasksSum(int projectID);
-
     }
 }

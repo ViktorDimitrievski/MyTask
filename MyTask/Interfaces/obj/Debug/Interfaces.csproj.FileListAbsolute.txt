@@ -1,0 +1,28 @@
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Interfaces\bin\Debug\Interfaces.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Interfaces\bin\Debug\Interfaces.pdb
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Interfaces\bin\Debug\Entities.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Interfaces\bin\Debug\Entities.pdb
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Interfaces\obj\Debug\Interfaces.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Interfaces\obj\Debug\Interfaces.pdb
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Interfaces\bin\Debug\Interfaces.dll.config
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Interfaces\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Interfaces\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Interfaces\bin\Debug\EntityFramework.dll
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Interfaces\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Interfaces\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Viktor D\MyTask-master\MyTask-master\MyTask\Interfaces\bin\Debug\EntityFramework.xml
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Interfaces\bin\Debug\Interfaces.dll.config
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Interfaces\bin\Debug\Entities.dll
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Interfaces\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Interfaces\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Interfaces\bin\Debug\EntityFramework.dll
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Interfaces\bin\Debug\Entities.pdb
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Interfaces\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Interfaces\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Interfaces\bin\Debug\EntityFramework.xml
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Viktor\Documents\GitHub\MyTask\MyTask\Interfaces\obj\Debug\Interfaces.pdb

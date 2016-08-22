@@ -9,13 +9,13 @@ namespace Interfaces
 {
     public interface  ITaskRepository
     {
-        List<Task> GetAll();
-        List<Task> GetByAssignee(string userID);
-        List<Task> GetAllByProject(int projectID);
-        Task GetByID(int ID);
-        Task Create(Task taks);
+        bool Create(Task taks);
         bool Edit(Task task);
         bool Delete(int taskID);
+        List<Task> GetAll();
+        Task GetByID(int ID);
+        List<Task> GetByAssignee(string userID);
+        List<Task> GetAllByProject(int projectID);
 
         string GetAssignee(int taskID);
         bool ChangeTaskStatus(int taskID , string changeTaskStatus);
